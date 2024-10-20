@@ -1,7 +1,6 @@
 # voice-assistant
 Machine Learning Project - voice assistant/ virtual assistant
 
-```markdown
 # Voice Assistant
 
 A versatile, customizable **Voice Assistant** that responds to voice commands to perform various tasks such as reminders, setting alarms, retrieving weather information, and much more. This project is built using Python and integrates both online and offline speech recognition for seamless operation in any environment.
