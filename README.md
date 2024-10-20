@@ -87,9 +87,3 @@ Download the Vosk language model:
 Feel free to contribute to this project by submitting issues or pull requests. If you have any questions, feel free to contact us.
 
 ```
-
-### Notes:
-- Replace `"voice_assistant.py"` with the actual name of your main script.
-- Update `"yourprofile"` and contributor names as needed.
-
-This **README.md** provides a detailed overview of your project, its features, how to install and use it, and potential areas for improvement, making it GitHub-ready. Let me know if you need any further customization!
