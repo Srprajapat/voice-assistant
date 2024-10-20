@@ -86,4 +86,3 @@ Download the Vosk language model:
 
 Feel free to contribute to this project by submitting issues or pull requests. If you have any questions, feel free to contact us.
 
-```
