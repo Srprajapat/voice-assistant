@@ -158,7 +158,7 @@ while True:
         pyautogui.press("enter")
 
     elif "calculate" in command: 
-        app_id = "UY86H3-J7EVT2AU8R"
+        app_id = "Your API key"
         client = wolframalpha.Client(app_id)
         indx = command.lower().split().index('calculate') 
         command = command.split()[indx + 1:] 
@@ -172,7 +172,7 @@ while True:
             speak("some error occured")
 
     elif "what is" in command :    
-        app_id = "UY86H3-J7EVT2AU8R"
+        app_id = "Your API key"
 
         try:
             client = wolframalpha.Client(app_id)
