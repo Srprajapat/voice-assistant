@@ -68,7 +68,6 @@ Download the Vosk language model:
 ## Methodology
 
 - **Speech Recognition**: Uses Google’s API for accurate online voice recognition and Vosk for offline speech-to-text conversion.
-- **Task Scheduling**: Implements Python’s built-in libraries to handle timers, reminders, and alarms.
 - **NLP Processing**: Uses basic parsing to interpret user commands and map them to predefined actions.
 - **APIs**: Queries external services like WolframAlpha for knowledge-based queries.
 - **Hybrid Mode**: Automatically chooses between online and offline modes based on network availability.
